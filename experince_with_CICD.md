@@ -5,3 +5,6 @@ my experince with CI/CD workflows include creating pull requests in my internshi
 
 
  Otherwise, I have no experince in creating and building a workflow but I have taken a look and observed the properties of my internship's yml file. 
+
+
+ AI discolosure: No AI was used
