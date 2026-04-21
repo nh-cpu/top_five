@@ -15,6 +15,7 @@ def home():
             request.form.get(f"item{i}", "").strip() for i in range(1, 6)
         ]
         # Validate that all inputs are filled
+        # this is good for checking if the user has filled out all the fields
         if category and all(items):
             submissions.append({"category": category, "five": items})
         return redirect("/")
